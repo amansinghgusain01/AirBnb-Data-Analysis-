@@ -5,7 +5,6 @@ Airbnb is a popular online platform that allows individuals to list, discover, a
 Airbnb allows hosts to list their homes, apartments, or other properties for short-term rentals, and provides a platform for travelers to search for and book these accommodations. The platform includes a variety of listing types, including entire homes, private rooms, and shared rooms, and offers a wide range of price points to suit different budgets.
 
 Project Overview
-airbnb-678x381
 
 This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seabornfor cleaning, visualization, and analysis.
 
